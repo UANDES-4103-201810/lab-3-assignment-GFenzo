@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  User_id: 
+  Ticket_id: 
+  Paid: 
+  Bought_time: 
+
+two:
+  User_id: 
+  Ticket_id: 
+  Paid: 
+  Bought_time: 

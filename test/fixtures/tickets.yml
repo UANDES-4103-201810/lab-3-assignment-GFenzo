@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Type: 
+  Description: 
+  Price: 
+  Event_id: 
+
+two:
+  Type: 
+  Description: 
+  Price: 
+  Event_id: 
